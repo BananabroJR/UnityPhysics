@@ -722,7 +722,7 @@ MonoBehaviour:
   speed: 3
   turnRate: 3
   jumpHeight: 2
-  doubleJumpHeight: 0
+  doubleJumpHeight: 2
   hitForce: 2
   fallRateMultiplier: 0
   lowJumpRateMultiplier: 0
